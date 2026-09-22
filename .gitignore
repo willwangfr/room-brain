@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.cognee_system/
+.data_storage/
+install.log
+data/
+.claude/
